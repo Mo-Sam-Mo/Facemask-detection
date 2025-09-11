@@ -1,4 +1,4 @@
-🩺 Face Mask Detection using Deep Learning
+# 🩺 Face Mask Detection using Deep Learning
 
 A deep learning project that detects whether a person is wearing a face
 mask or not from an image.
@@ -7,7 +7,7 @@ accuracy.
 
 ------------------------------------------------------------------------
 
-🚀 Features
+# 🚀 Features
 
 -   Detects Mask 😷 vs No Mask 🙅‍♂️ in images.
 -   Pre-trained on VGG16 for fast and accurate classification.
